@@ -1,5 +1,4 @@
 Hello there,
 
-I'm @Liftof. It's like "Lift off" but in a single word and with a single "f".
-
-Mostly using github to develop www.jetevois.fr. Working on big data.
+So I'm a business school student, specializing in strategy consulting services, that always had a strong interest in technology.
+I'm now spending my free time playing with big data by building www.jetevois.fr. 
